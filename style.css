@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+  .form-control {
+    width: 50%;
+  }
+}
+
+.d-block {
+  object-fit: none;
+  object-position: center;
+  max-height: 350px;
+}
